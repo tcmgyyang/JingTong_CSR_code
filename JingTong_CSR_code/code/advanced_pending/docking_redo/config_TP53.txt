@@ -1,0 +1,12 @@
+# Vina config ¡ª TP53 (2OCJ) ¡ª no pocket ligand -> blind dock over core/DNA-binding domain (hard target)
+receptor = TP53_receptor.pdbqt
+ligand   = quercetin.pdbqt   # also run with kaempferol.pdbqt
+center_x = 2.65
+center_y = -0.06
+center_z = 31.41
+size_x = 30
+size_y = 30
+size_z = 30
+exhaustiveness = 32
+num_modes = 9
+energy_range = 4

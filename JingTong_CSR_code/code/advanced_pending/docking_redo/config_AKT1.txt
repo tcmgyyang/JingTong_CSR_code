@@ -1,0 +1,12 @@
+# Vina config ¡ª AKT1 (4EKL) ¡ª ATP-competitive pocket (GDC-0068)
+receptor = AKT1_receptor.pdbqt
+ligand   = quercetin.pdbqt   # also run with kaempferol.pdbqt
+center_x = 28.03
+center_y = 5.22
+center_z = 10.89
+size_x = 22
+size_y = 22
+size_z = 22
+exhaustiveness = 32
+num_modes = 9
+energy_range = 4

@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+networkx
+gseapy
+scanpy
+mygene
+requests
+adjustText
+upsetplot
+venn
+Pillow
+# rdkit  (install via: conda install -c conda-forge rdkit)
+# celloracle  (single-cell perturbation; conda/pip, see https://morris-lab.github.io/CellOracle.documentation/)

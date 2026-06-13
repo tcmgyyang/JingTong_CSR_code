@@ -1,0 +1,12 @@
+# Vina config ¡ª IL6 (1ALU) ¡ª no pocket ligand -> blind dock over 4-helix bundle (Site II/III)
+receptor = IL6_receptor.pdbqt
+ligand   = quercetin.pdbqt   # also run with kaempferol.pdbqt
+center_x = 2.67
+center_y = -19.98
+center_z = 9.04
+size_x = 30
+size_y = 30
+size_z = 30
+exhaustiveness = 32
+num_modes = 9
+energy_range = 4

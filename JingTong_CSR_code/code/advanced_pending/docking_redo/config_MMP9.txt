@@ -1,0 +1,12 @@
+# Vina config ¡ª MMP9 (1GKC) ¡ª catalytic-Zn / S1prime pocket (reverse-hydroxamate)
+receptor = MMP9_receptor.pdbqt
+ligand   = quercetin.pdbqt   # also run with kaempferol.pdbqt
+center_x = 65.84
+center_y = 30.71
+center_z = 117.75
+size_x = 22
+size_y = 22
+size_z = 22
+exhaustiveness = 32
+num_modes = 9
+energy_range = 4
